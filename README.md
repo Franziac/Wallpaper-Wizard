@@ -4,7 +4,10 @@ Wallpaper Wizard is a tool that allows you to change your wallpaper based on the
 
 ## Installation
 
-Just download and run the installer from the [itch.io](https://cyndakwil.itch.io/wallpaper-wizard) page.
+Note: Python 3.x required
+1. Download the Wallpaper-Wizard-App folder
+2. Run the installer.py
+3. Follow the instructions
 
 ## Importing a theme
 
@@ -26,8 +29,22 @@ Just download and run the installer from the [itch.io](https://cyndakwil.itch.io
 ```
 
 Make sure all filenames and values are spelled correctly with the correct capitalization.
-4. Send all files in the folder (not the folder itself) into a zip file.
-5. Open Wallpaper Wizard and select "Import Theme".
-6. Select your zip file in the file selector.
-7. Select and apply your newly imported theme.
-8. Profit.
+4. Have all the images and the theme.json file in a single folder (preferably with no other files)
+5. Run the installer.py and enter advanced options.
+6. Say yes to using a different theme and select the folder containing the theme.
+7. Finish the installation
+
+## About
+
+I had some issues with the original version made by @Cyndakwill and @diemer (notably the program asking for the API key after every restart) and I found their application to be overly complex (maybe I'm just not used to C#). So I coded my own version of the using the basic principles used in the other version. The program runs nicely and it's quite simple. It doesn't have an UI which isn't an issue for me but with the appropriate skills one could quite easily be made with the config.json working as a bridge.
+
+This version definetly isn't as user-friendly as the original, but with some improvement it could be.
+
+## Credits
+
+Artwork: 
+    Firewatch: ?
+	Konbini-Old:  ([Jaume Rovira Llorca](https://www.artstation.com/jumkun), @Cyndakwill (?)
+	Konbini-New: ([Jaume Rovira Llorca](https://www.artstation.com/jumkun), @Cyndakwill (?), @Franziac
+    Random: ?
+    
