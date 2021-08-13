@@ -36,7 +36,7 @@ def change_bg(weather):
     f = open(theme_dir+"/theme.json")
     j = json.loads(f.read())
     f.close()
-    ctypes.windll.user32.SystemParametersInfoW(20, 0, theme_dir+j.get(weather), 3)
+    ctypes.windll.user32.SystemParametersInfoW(20, 0, theme_dir+"/"+j.get(weather), 3)
 def get_config():
     global city, app_id, theme_dir, default_weather, update_interval, check_internet_interval
     f = open(os.path.dirname(sys.argv[0])+"/config.json")
@@ -53,6 +53,7 @@ last_weather = ""
 while True:
     try:
         get_config()
+        
         weather = get_weather()
         if(last_weather != weather):
             change_bg(weather)
