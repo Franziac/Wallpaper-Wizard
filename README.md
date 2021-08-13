@@ -29,6 +29,7 @@ Note: Python 3.x required
 ```
 
 Make sure all filenames and values are spelled correctly with the correct capitalization.
+
 4. Have all the images and the theme.json file in a single folder (preferably with no other files)
 5. Run the installer.py and enter advanced options.
 6. Say yes to using a different theme and select the folder containing the theme.
