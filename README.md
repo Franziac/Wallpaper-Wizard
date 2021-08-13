@@ -43,8 +43,8 @@ This version definetly isn't as user-friendly as the original, but with some imp
 ## Credits
 
 Artwork: 
-    Firewatch: ?
-	Konbini-Old:  ([Jaume Rovira Llorca](https://www.artstation.com/jumkun), @Cyndakwill (?)
-	Konbini-New: ([Jaume Rovira Llorca](https://www.artstation.com/jumkun), @Cyndakwill (?), @Franziac
-    Random: ?
+* Firewatch: ?
+* Konbini-Old:  [Jaume Rovira Llorca](https://www.artstation.com/jumkun), [@Cyndakwill](https://github.com/Cyndakwil) (?)
+* Konbini-New: [Jaume Rovira Llorca](https://www.artstation.com/jumkun), [@Cyndakwill](https://github.com/Cyndakwil)(?), [@Franziac](https://github.com/Franziac)
+* Random: ?
     
