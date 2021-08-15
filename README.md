@@ -4,7 +4,7 @@ Wallpaper Wizard is a tool that allows you to change your wallpaper based on the
 
 ## Installation
 
-Note: Python 3.x required
+Note: Python 3.x and requests module required (`pip install requests`)
 1. Download the Wallpaper-Wizard-App folder
 2. Run the installer.py
 3. Follow the installers instructions
