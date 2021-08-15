@@ -41,7 +41,7 @@ Make sure all filenames and values are spelled correctly with the correct capita
 
 ## About
 
-I had some issues with the original version made by @Cyndakwill and @diemer (notably the program asking for the API key after every restart) and I found their application to be overly complex (maybe I'm just not used to C#). So I coded my own version of the using the basic principles used in the other version. The program runs nicely and it's quite simple. It doesn't have an UI which isn't an issue for me but with the appropriate skills one could quite easily be made with the config.json working as a bridge.
+I had some issues with the [original version](https://github.com/Cyndakwil/Wallpaper-Wizard) made by @Cyndakwill and @diemer (notably the program asking for the API key after every restart) and I found their application to be overly complex (maybe I'm just not used to C#). So I coded my own version of it using the basic principles used in the original. The program runs nicely and it's quite simple. It doesn't have an UI which isn't an issue for me but with the appropriate skills one could quite easily be made with the config.json working as a bridge.
 
 This version definetly isn't as user-friendly as the original, but with some improvement it could be.
 
