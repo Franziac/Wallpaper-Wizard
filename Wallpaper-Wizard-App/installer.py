@@ -78,7 +78,7 @@ def main():
     install_config()
     install_startup_script()
     
-    print("installation succeeded")
+    print("installation succeeded, please restart your computer")
     input("press enter to exit")
 if(__name__=="__main__"):
     main()
