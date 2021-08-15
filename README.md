@@ -3,7 +3,7 @@
 Wallpaper Wizard is a tool that allows you to change your wallpaper based on the weather and time of day.
 
 ## Requirements
-* Note: Python 3.x
+* Python 3.x
 * requests module required (`pip install requests`)
 * free [OpenWeatherMap API key](https://openweathermap.org/api).
 ## Installation
