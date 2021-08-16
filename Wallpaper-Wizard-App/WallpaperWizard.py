@@ -62,6 +62,7 @@ def main():
         except:
             get_config()
             change_bg(default_weather)
+            last_weather = default_weather
             time.sleep(check_internet_interval)
 if(__name__ == "__main__"):
     main()
